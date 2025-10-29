@@ -2,3 +2,5 @@ python-telegram-bot==20.8
 aiohttp==3.9.5
 asyncio==3.4.3
 requests==2.32.3
+aiogram==3.10.0
+apscheduler==3.10.4
